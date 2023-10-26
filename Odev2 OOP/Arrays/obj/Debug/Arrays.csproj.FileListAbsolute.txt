@@ -1,0 +1,7 @@
+C:\Users\iTopya\OneDrive\Masaüstü\Tobeto\1A\cSharp\Odev\Arrays\bin\Debug\Arrays.exe.config
+C:\Users\iTopya\OneDrive\Masaüstü\Tobeto\1A\cSharp\Odev\Arrays\bin\Debug\Arrays.exe
+C:\Users\iTopya\OneDrive\Masaüstü\Tobeto\1A\cSharp\Odev\Arrays\bin\Debug\Arrays.pdb
+C:\Users\iTopya\OneDrive\Masaüstü\Tobeto\1A\cSharp\Odev\Arrays\obj\Debug\Arrays.csproj.AssemblyReference.cache
+C:\Users\iTopya\OneDrive\Masaüstü\Tobeto\1A\cSharp\Odev\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\iTopya\OneDrive\Masaüstü\Tobeto\1A\cSharp\Odev\Arrays\obj\Debug\Arrays.exe
+C:\Users\iTopya\OneDrive\Masaüstü\Tobeto\1A\cSharp\Odev\Arrays\obj\Debug\Arrays.pdb

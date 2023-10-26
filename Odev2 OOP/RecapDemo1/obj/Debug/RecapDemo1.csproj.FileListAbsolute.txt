@@ -1,0 +1,10 @@
+C:\Users\iTopya\OneDrive\Masaüstü\Tobeto\1A\cSharp\Odev\RecapDemo1\bin\Debug\RecapDemo1.exe.config
+C:\Users\iTopya\OneDrive\Masaüstü\Tobeto\1A\cSharp\Odev\RecapDemo1\bin\Debug\RecapDemo1.exe
+C:\Users\iTopya\OneDrive\Masaüstü\Tobeto\1A\cSharp\Odev\RecapDemo1\bin\Debug\RecapDemo1.pdb
+C:\Users\iTopya\OneDrive\Masaüstü\Tobeto\1A\cSharp\Odev\RecapDemo1\obj\Debug\RecapDemo1.csproj.AssemblyReference.cache
+C:\Users\iTopya\OneDrive\Masaüstü\Tobeto\1A\cSharp\Odev\RecapDemo1\obj\Debug\RecapDemo1.Form1.resources
+C:\Users\iTopya\OneDrive\Masaüstü\Tobeto\1A\cSharp\Odev\RecapDemo1\obj\Debug\RecapDemo1.Properties.Resources.resources
+C:\Users\iTopya\OneDrive\Masaüstü\Tobeto\1A\cSharp\Odev\RecapDemo1\obj\Debug\RecapDemo1.csproj.GenerateResource.cache
+C:\Users\iTopya\OneDrive\Masaüstü\Tobeto\1A\cSharp\Odev\RecapDemo1\obj\Debug\RecapDemo1.csproj.CoreCompileInputs.cache
+C:\Users\iTopya\OneDrive\Masaüstü\Tobeto\1A\cSharp\Odev\RecapDemo1\obj\Debug\RecapDemo1.exe
+C:\Users\iTopya\OneDrive\Masaüstü\Tobeto\1A\cSharp\Odev\RecapDemo1\obj\Debug\RecapDemo1.pdb

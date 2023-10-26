@@ -1,0 +1,7 @@
+C:\Users\iTopya\OneDrive\Masaüstü\Tobeto\1A\cSharp\Odev\Interfaces\bin\Debug\Interfaces.exe.config
+C:\Users\iTopya\OneDrive\Masaüstü\Tobeto\1A\cSharp\Odev\Interfaces\bin\Debug\Interfaces.exe
+C:\Users\iTopya\OneDrive\Masaüstü\Tobeto\1A\cSharp\Odev\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\iTopya\OneDrive\Masaüstü\Tobeto\1A\cSharp\Odev\Interfaces\obj\Debug\Interfaces.csproj.AssemblyReference.cache
+C:\Users\iTopya\OneDrive\Masaüstü\Tobeto\1A\cSharp\Odev\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\iTopya\OneDrive\Masaüstü\Tobeto\1A\cSharp\Odev\Interfaces\obj\Debug\Interfaces.exe
+C:\Users\iTopya\OneDrive\Masaüstü\Tobeto\1A\cSharp\Odev\Interfaces\obj\Debug\Interfaces.pdb
